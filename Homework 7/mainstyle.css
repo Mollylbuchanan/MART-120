@@ -1,0 +1,32 @@
+div{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: lightslategray;
+}
+
+.header{
+    font-weight: 1000;
+    letter-spacing: -1px;
+    font-size: 160%;
+}
+
+.links{
+    text-decoration: none;
+    color: rgb(64, 75, 194);
+    padding: 1%;
+}
+
+#links:hover {
+    color: rgb(62, 122, 179);
+    font-size: 130%;
+}
+
+#links2:hover {
+    color: rgb(43, 162, 139);
+    font-size: 130%;
+}
+
+.bodybackground {
+    background-color: rgb(219, 221, 233);
+    background-image: url(background1.jpg);
+    background-blend-mode: overlay;
+}
