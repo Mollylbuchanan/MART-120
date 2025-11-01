@@ -13,10 +13,10 @@
     var rightlegSpeed = Math.random(1.5 , 2);
     var armX = 80;
     var armY = 316;
-    var armSpeed = .3;
+    var armSpeed = Math.random(0.2, 0.3);
     var armXr = 221;
     var armYr = 330;
-    var armSpeedr = .5;
+    var armSpeedr = Math.random(0.4, 0.5);
 
     //textvariables
     var titleSize = 32;
